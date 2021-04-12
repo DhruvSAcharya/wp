@@ -1,0 +1,30 @@
+body
+{
+	background-color: cyan;
+	color: #000;
+}
+th
+{
+	font-size: 20px;
+}
+
+table,td,img
+{
+	width: 300px;
+	height: 200px;
+	
+}
+.card1,.card2,.card3,.card4,.card5,.card6,.card7,.card8,.card9
+{
+transition: transform 1s; 
+}
+
+.card1:hover{transform: scale(1.2);}
+.card2:hover{transform: scale(1.2);}
+.card3:hover{transform: scale(1.2);}
+.card4:hover{transform: scale(1.2);}
+.card5:hover{transform: scale(1.2);}
+.card6:hover{transform: scale(1.2);}
+.card7:hover{transform: scale(1.2);}
+.card8:hover{transform: scale(1.2);}
+.card9:hover{transform: scale(1.2);}
